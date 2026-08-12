@@ -66,4 +66,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/harshadakhalokar/LeetCode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
