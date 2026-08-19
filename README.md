@@ -69,6 +69,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
 | [1920-build-array-from-permutation](https://github.com/harshadakhalokar/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
@@ -81,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
 | [1025-divisor-game](https://github.com/harshadakhalokar/LeetCode/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/harshadakhalokar/LeetCode/tree/master/1025-divisor-game) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
