@@ -58,6 +58,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshadakhalokar/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -118,6 +119,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshadakhalokar/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Matrix
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshadakhalokar/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
