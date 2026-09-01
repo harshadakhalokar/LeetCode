@@ -61,6 +61,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/harshadakhalokar/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshadakhalokar/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/harshadakhalokar/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
