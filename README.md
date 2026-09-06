@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshadakhalokar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshadakhalokar/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshadakhalokar/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -28,6 +29,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshadakhalokar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshadakhalokar/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0143-reorder-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshadakhalokar/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -73,12 +76,14 @@
 | [0141-linked-list-cycle](https://github.com/harshadakhalokar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshadakhalokar/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshadakhalokar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Floyd's Cycle Finding Algorithm
