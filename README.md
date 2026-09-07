@@ -15,6 +15,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshadakhalokar/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/harshadakhalokar/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/harshadakhalokar/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshadakhalokar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshadakhalokar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3731-find-missing-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/harshadakhalokar/LeetCode/tree/master/0155-min-stack) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
