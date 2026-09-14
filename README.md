@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
+| [0836-rectangle-overlap](https://github.com/harshadakhalokar/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/harshadakhalokar/LeetCode/tree/master/1025-divisor-game) |
 | [3870-count-commas-in-range](https://github.com/harshadakhalokar/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshadakhalokar/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -202,4 +203,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/harshadakhalokar/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
