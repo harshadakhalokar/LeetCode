@@ -23,6 +23,7 @@
 | [1672-richest-customer-wealth](https://github.com/harshadakhalokar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/harshadakhalokar/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [2942-find-words-containing-character](https://github.com/harshadakhalokar/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshadakhalokar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshadakhalokar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/3731-find-missing-elements) |
@@ -155,6 +156,7 @@
 | [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/harshadakhalokar/LeetCode/tree/master/0125-valid-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshadakhalokar/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2942-find-words-containing-character](https://github.com/harshadakhalokar/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Matrix
 |  |
 | ------- |
