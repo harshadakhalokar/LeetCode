@@ -15,12 +15,13 @@ class Solution {
             int product=0;
             for(int j=i+1;j<words.length;j++){
                 if((masks[i] & masks[j])==0){
-                    product=(words[i].length()) * (words[j].length());
+                    product=(words[i].length()) * (words[j].length());    
+                    
+                    if(max_product<product){
+                        max_product=product;
+                    }
                 }
 
-                if(max_product<product){
-                    max_product=product;
-                }
             }
         }
         return max_product;
