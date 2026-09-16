@@ -7,15 +7,7 @@ class Solution {
             ans[i]=arr[i];
         }
 
-        for(int i=1;i<ans.length;i++){
-            int key=ans[i];
-            int j=i-1;
-            while(j>=0 && ans[j]>key){
-                ans[j+1]=ans[j];
-                j--;
-            }
-            ans[j+1]=key;
-        }
+        Arrays.sort(ans);
 
         for(int i=0;i<ans.length;i++){
             if(!(map.containsKey(ans[i]))){
