@@ -19,6 +19,7 @@
 | [0414-third-maximum-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/harshadakhalokar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/harshadakhalokar/LeetCode/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshadakhalokar/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -118,6 +119,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/harshadakhalokar/LeetCode/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/harshadakhalokar/LeetCode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Monotonic Stack
 |  |
@@ -240,4 +243,8 @@
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/harshadakhalokar/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/harshadakhalokar/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
