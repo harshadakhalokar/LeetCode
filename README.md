@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshadakhalokar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/harshadakhalokar/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/harshadakhalokar/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -52,6 +53,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshadakhalokar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshadakhalokar/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshadakhalokar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -88,6 +90,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/harshadakhalokar/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harshadakhalokar/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -142,6 +145,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshadakhalokar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -257,10 +261,15 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/harshadakhalokar/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0645-set-mismatch](https://github.com/harshadakhalokar/LeetCode/tree/master/0645-set-mismatch) |
 ## Greedy
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/harshadakhalokar/LeetCode/tree/master/0561-array-partition) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
