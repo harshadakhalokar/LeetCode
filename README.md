@@ -105,6 +105,7 @@
 | [0234-palindrome-linked-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/harshadakhalokar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshadakhalokar/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
@@ -202,6 +203,7 @@
 | [0125-valid-palindrome](https://github.com/harshadakhalokar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0318-maximum-product-of-word-lengths](https://github.com/harshadakhalokar/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1436-destination-city](https://github.com/harshadakhalokar/LeetCode/tree/master/1436-destination-city) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshadakhalokar/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/harshadakhalokar/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
