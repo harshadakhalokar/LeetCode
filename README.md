@@ -26,6 +26,7 @@
 | [0645-set-mismatch](https://github.com/harshadakhalokar/LeetCode/tree/master/0645-set-mismatch) |
 | [0896-monotonic-array](https://github.com/harshadakhalokar/LeetCode/tree/master/0896-monotonic-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1089-duplicate-zeros](https://github.com/harshadakhalokar/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshadakhalokar/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -96,6 +97,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/harshadakhalokar/LeetCode/tree/master/1089-duplicate-zeros) |
 ## Stack
 |  |
 | ------- |
