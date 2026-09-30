@@ -180,6 +180,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshadakhalokar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/harshadakhalokar/LeetCode/tree/master/0836-rectangle-overlap) |
