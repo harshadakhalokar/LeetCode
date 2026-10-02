@@ -23,6 +23,7 @@
 | [0496-next-greater-element-i](https://github.com/harshadakhalokar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/harshadakhalokar/LeetCode/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/harshadakhalokar/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshadakhalokar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/harshadakhalokar/LeetCode/tree/master/0645-set-mismatch) |
 | [0896-monotonic-array](https://github.com/harshadakhalokar/LeetCode/tree/master/0896-monotonic-array) |
@@ -128,6 +129,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/harshadakhalokar/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/harshadakhalokar/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/harshadakhalokar/LeetCode/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -218,6 +220,7 @@
 | [0125-valid-palindrome](https://github.com/harshadakhalokar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0318-maximum-product-of-word-lengths](https://github.com/harshadakhalokar/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/harshadakhalokar/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1436-destination-city](https://github.com/harshadakhalokar/LeetCode/tree/master/1436-destination-city) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
