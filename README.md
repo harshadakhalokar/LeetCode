@@ -46,6 +46,7 @@
 | [1920-build-array-from-permutation](https://github.com/harshadakhalokar/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshadakhalokar/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/harshadakhalokar/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshadakhalokar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -156,6 +157,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshadakhalokar/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshadakhalokar/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3731-find-missing-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Floyd's Cycle Finding Algorithm
@@ -246,6 +248,7 @@
 | [0561-array-partition](https://github.com/harshadakhalokar/LeetCode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
