@@ -26,6 +26,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/harshadakhalokar/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshadakhalokar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/harshadakhalokar/LeetCode/tree/master/0645-set-mismatch) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/harshadakhalokar/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0896-monotonic-array](https://github.com/harshadakhalokar/LeetCode/tree/master/0896-monotonic-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/harshadakhalokar/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -65,6 +66,7 @@
 | [0287-find-the-duplicate-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/harshadakhalokar/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshadakhalokar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
