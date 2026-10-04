@@ -27,6 +27,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/harshadakhalokar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/harshadakhalokar/LeetCode/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshadakhalokar/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/harshadakhalokar/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/harshadakhalokar/LeetCode/tree/master/0896-monotonic-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/harshadakhalokar/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -161,6 +162,7 @@
 | [0561-array-partition](https://github.com/harshadakhalokar/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshadakhalokar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/harshadakhalokar/LeetCode/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/harshadakhalokar/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1122-relative-sort-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harshadakhalokar/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
