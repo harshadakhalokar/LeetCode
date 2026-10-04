@@ -36,6 +36,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/harshadakhalokar/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/harshadakhalokar/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshadakhalokar/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/harshadakhalokar/LeetCode/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
+| [1389-create-target-array-in-the-given-order](https://github.com/harshadakhalokar/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/harshadakhalokar/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/harshadakhalokar/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
