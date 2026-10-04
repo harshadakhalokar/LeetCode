@@ -33,6 +33,7 @@
 | [1122-relative-sort-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshadakhalokar/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/harshadakhalokar/LeetCode/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -69,6 +70,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshadakhalokar/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshadakhalokar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
@@ -108,6 +110,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/harshadakhalokar/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -155,6 +158,7 @@
 | [1122-relative-sort-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshadakhalokar/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
