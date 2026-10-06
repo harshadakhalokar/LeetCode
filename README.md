@@ -219,6 +219,7 @@
 | [1025-divisor-game](https://github.com/harshadakhalokar/LeetCode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshadakhalokar/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2485-find-the-pivot-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/harshadakhalokar/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshadakhalokar/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/harshadakhalokar/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshadakhalokar/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -324,6 +325,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/harshadakhalokar/LeetCode/tree/master/0561-array-partition) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/harshadakhalokar/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Pigeonhole Principle
 |  |
 | ------- |
