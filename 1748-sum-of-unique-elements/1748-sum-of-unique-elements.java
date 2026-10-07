@@ -1,18 +1,20 @@
 class Solution {
     public int sumOfUnique(int[] nums) {
         int sum=0;
+        HashSet<Integer> unique=new HashSet<>();
+        HashSet<Integer> duplicate=new HashSet<>();
         for(int i=0;i<nums.length;i++){
-            int count=0;
-
-            for(int j=0;j<nums.length;j++){
-                if(nums[i]==nums[j]){
-                    count++;
-                }
+            if(!unique.contains(nums[i]) && !duplicate.contains(nums[i])){
+                unique.add(nums[i]);
             }
-
-            if(count==1){
-                sum=sum+nums[i];
+            else{
+                unique.remove(nums[i]);
+                duplicate.add(nums[i]);
             }
+        }
+
+        for(int num:unique){
+            sum=sum+num;
         }
         return sum;
     }
