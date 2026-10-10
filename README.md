@@ -60,6 +60,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/harshadakhalokar/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/harshadakhalokar/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshadakhalokar/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/harshadakhalokar/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -163,6 +164,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshadakhalokar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/harshadakhalokar/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshadakhalokar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -288,6 +290,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
