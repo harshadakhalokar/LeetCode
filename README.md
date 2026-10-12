@@ -60,6 +60,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/harshadakhalokar/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/harshadakhalokar/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshadakhalokar/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
