@@ -51,6 +51,7 @@
 | [1534-count-good-triplets](https://github.com/harshadakhalokar/LeetCode/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/harshadakhalokar/LeetCode/tree/master/1550-three-consecutive-odds) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshadakhalokar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/harshadakhalokar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -194,6 +195,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshadakhalokar/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
