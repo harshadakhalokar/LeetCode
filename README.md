@@ -122,6 +122,7 @@
 | [0143-reorder-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/harshadakhalokar/LeetCode/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +250,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
+| [0326-power-of-three](https://github.com/harshadakhalokar/LeetCode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshadakhalokar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/harshadakhalokar/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
