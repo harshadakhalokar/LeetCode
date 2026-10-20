@@ -259,6 +259,7 @@
 | [2600-k-items-with-the-maximum-sum](https://github.com/harshadakhalokar/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/harshadakhalokar/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshadakhalokar/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harshadakhalokar/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/harshadakhalokar/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshadakhalokar/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
