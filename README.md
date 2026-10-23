@@ -58,6 +58,7 @@
 | [1672-richest-customer-wealth](https://github.com/harshadakhalokar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/harshadakhalokar/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harshadakhalokar/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/harshadakhalokar/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -258,6 +259,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/harshadakhalokar/LeetCode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshadakhalokar/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/harshadakhalokar/LeetCode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/harshadakhalokar/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
