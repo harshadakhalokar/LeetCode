@@ -50,6 +50,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshadakhalokar/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshadakhalokar/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/harshadakhalokar/LeetCode/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/harshadakhalokar/LeetCode/tree/master/1550-three-consecutive-odds) |
@@ -180,6 +181,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/harshadakhalokar/LeetCode/tree/master/1436-destination-city) |
+| [1512-number-of-good-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshadakhalokar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/harshadakhalokar/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -259,6 +261,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/harshadakhalokar/LeetCode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshadakhalokar/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/harshadakhalokar/LeetCode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -319,6 +322,7 @@
 | [1122-relative-sort-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
