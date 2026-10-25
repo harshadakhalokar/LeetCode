@@ -229,6 +229,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/harshadakhalokar/LeetCode/tree/master/0258-add-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/harshadakhalokar/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/harshadakhalokar/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -257,6 +258,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/harshadakhalokar/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/harshadakhalokar/LeetCode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshadakhalokar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/harshadakhalokar/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -403,4 +405,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshadakhalokar/LeetCode/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/harshadakhalokar/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
