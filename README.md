@@ -74,6 +74,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/harshadakhalokar/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2404-most-frequent-even-element](https://github.com/harshadakhalokar/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/harshadakhalokar/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshadakhalokar/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -106,6 +107,7 @@
 | [1539-kth-missing-positive-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshadakhalokar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -336,6 +338,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/harshadakhalokar/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Monotonic Stack
 |  |
 | ------- |
