@@ -84,6 +84,7 @@
 | [2942-find-words-containing-character](https://github.com/harshadakhalokar/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshadakhalokar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/harshadakhalokar/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3452-sum-of-good-numbers](https://github.com/harshadakhalokar/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshadakhalokar/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshadakhalokar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
