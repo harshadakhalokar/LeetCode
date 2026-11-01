@@ -84,6 +84,7 @@
 | [2942-find-words-containing-character](https://github.com/harshadakhalokar/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshadakhalokar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/harshadakhalokar/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshadakhalokar/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3452-sum-of-good-numbers](https://github.com/harshadakhalokar/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshadakhalokar/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -287,6 +288,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/harshadakhalokar/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/harshadakhalokar/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshadakhalokar/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshadakhalokar/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harshadakhalokar/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/harshadakhalokar/LeetCode/tree/master/3870-count-commas-in-range) |
