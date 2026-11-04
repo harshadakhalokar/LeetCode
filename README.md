@@ -51,6 +51,7 @@
 | [1470-shuffle-the-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshadakhalokar/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshadakhalokar/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshadakhalokar/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/harshadakhalokar/LeetCode/tree/master/1534-count-good-triplets) |
@@ -227,6 +228,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/harshadakhalokar/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshadakhalokar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshadakhalokar/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/harshadakhalokar/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
