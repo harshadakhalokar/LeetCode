@@ -68,6 +68,7 @@
 | [1920-build-array-from-permutation](https://github.com/harshadakhalokar/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshadakhalokar/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2057-smallest-index-with-equal-value](https://github.com/harshadakhalokar/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -201,6 +202,7 @@
 | [1512-number-of-good-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshadakhalokar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshadakhalokar/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/harshadakhalokar/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/harshadakhalokar/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -356,6 +358,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/harshadakhalokar/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshadakhalokar/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/harshadakhalokar/LeetCode/tree/master/2404-most-frequent-even-element) |
