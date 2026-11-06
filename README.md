@@ -88,6 +88,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/harshadakhalokar/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshadakhalokar/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/harshadakhalokar/LeetCode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2942-find-words-containing-character](https://github.com/harshadakhalokar/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshadakhalokar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/harshadakhalokar/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -168,6 +169,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/harshadakhalokar/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshadakhalokar/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/harshadakhalokar/LeetCode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Stack
 |  |
 | ------- |
