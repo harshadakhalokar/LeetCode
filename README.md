@@ -293,6 +293,7 @@
 | [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/harshadakhalokar/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/harshadakhalokar/LeetCode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshadakhalokar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/harshadakhalokar/LeetCode/tree/master/0836-rectangle-overlap) |
