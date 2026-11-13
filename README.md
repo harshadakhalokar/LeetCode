@@ -356,6 +356,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshadakhalokar/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/harshadakhalokar/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshadakhalokar/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3798-largest-even-number](https://github.com/harshadakhalokar/LeetCode/tree/master/3798-largest-even-number) |
 ## Matrix
 |  |
 | ------- |
