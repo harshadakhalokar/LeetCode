@@ -217,6 +217,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshadakhalokar/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/harshadakhalokar/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/harshadakhalokar/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/harshadakhalokar/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/harshadakhalokar/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3663-find-the-least-frequent-digit](https://github.com/harshadakhalokar/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
@@ -356,6 +357,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2278-percentage-of-letter-in-string](https://github.com/harshadakhalokar/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/harshadakhalokar/LeetCode/tree/master/2315-count-asterisks) |
+| [2351-first-letter-to-appear-twice](https://github.com/harshadakhalokar/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshadakhalokar/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/harshadakhalokar/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshadakhalokar/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -386,6 +388,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshadakhalokar/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/harshadakhalokar/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/harshadakhalokar/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3663-find-the-least-frequent-digit](https://github.com/harshadakhalokar/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
@@ -442,6 +445,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/harshadakhalokar/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/harshadakhalokar/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/harshadakhalokar/LeetCode/tree/master/0645-set-mismatch) |
+| [2351-first-letter-to-appear-twice](https://github.com/harshadakhalokar/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
