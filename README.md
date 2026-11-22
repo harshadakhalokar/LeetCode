@@ -367,6 +367,7 @@
 | [1436-destination-city](https://github.com/harshadakhalokar/LeetCode/tree/master/1436-destination-city) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/harshadakhalokar/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/harshadakhalokar/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2278-percentage-of-letter-in-string](https://github.com/harshadakhalokar/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/harshadakhalokar/LeetCode/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshadakhalokar/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
