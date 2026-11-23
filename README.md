@@ -13,6 +13,7 @@
 | [0162-find-peak-element](https://github.com/harshadakhalokar/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/harshadakhalokar/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/harshadakhalokar/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/harshadakhalokar/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshadakhalokar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0229-majority-element-ii) |
@@ -308,6 +309,7 @@
 | [0009-palindrome-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/harshadakhalokar/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/harshadakhalokar/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/harshadakhalokar/LeetCode/tree/master/0326-power-of-three) |
@@ -480,6 +482,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/harshadakhalokar/LeetCode/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/harshadakhalokar/LeetCode/tree/master/1534-count-good-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshadakhalokar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Bubble Sort
@@ -494,6 +497,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/harshadakhalokar/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/harshadakhalokar/LeetCode/tree/master/0258-add-digits) |
 ## Queue
 |  |
@@ -503,4 +507,16 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/harshadakhalokar/LeetCode/tree/master/0164-maximum-gap) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshadakhalokar/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshadakhalokar/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshadakhalokar/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
