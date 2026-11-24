@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/harshadakhalokar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshadakhalokar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshadakhalokar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshadakhalokar/LeetCode/tree/master/0035-search-insert-position) |
@@ -353,6 +354,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/harshadakhalokar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/harshadakhalokar/LeetCode/tree/master/0058-length-of-last-word) |
@@ -519,4 +521,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harshadakhalokar/LeetCode/tree/master/0204-count-primes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshadakhalokar/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
