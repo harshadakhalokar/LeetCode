@@ -196,6 +196,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/harshadakhalokar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshadakhalokar/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -308,6 +309,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/harshadakhalokar/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/harshadakhalokar/LeetCode/tree/master/0204-count-primes) |
@@ -354,6 +356,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harshadakhalokar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harshadakhalokar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/harshadakhalokar/LeetCode/tree/master/0043-multiply-strings) |
