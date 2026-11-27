@@ -172,6 +172,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/harshadakhalokar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harshadakhalokar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshadakhalokar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/harshadakhalokar/LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/harshadakhalokar/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshadakhalokar/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/harshadakhalokar/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -340,6 +341,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshadakhalokar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/harshadakhalokar/LeetCode/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/harshadakhalokar/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -368,6 +370,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/harshadakhalokar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshadakhalokar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshadakhalokar/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/harshadakhalokar/LeetCode/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/harshadakhalokar/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/harshadakhalokar/LeetCode/tree/master/0709-to-lower-case) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshadakhalokar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
